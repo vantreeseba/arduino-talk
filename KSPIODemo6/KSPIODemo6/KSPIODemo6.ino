@@ -1,14 +1,14 @@
 //pins for LEDs
-#define GLED 5
-#define YLED 6
-#define RLED 7
+#define GLED 3
+#define YLED 4
+#define RLED 5
 
 //pins for input
-#define SASPIN 8
-#define RCSPIN 9
-#define CG1PIN 10
-#define STAGEPIN 11
-#define THROTTLEPIN 1
+#define SASPIN 6
+#define RCSPIN 7
+#define CG1PIN 8
+#define STAGEPIN 9
+#define THROTTLEPIN 0
 
 #define THROTTLEDB 4 //Throttle axis deadband
 
